@@ -1,4 +1,4 @@
-# SOC-Lab-01-Process-Investigation
+# SOC Lab 01 Process Investigation
 Investigating Windows process creation events using Sysmon and Splunk.
 # SOC Lab 01 – Windows Process Investigation
 
